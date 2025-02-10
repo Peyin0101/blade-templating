@@ -1,0 +1,1 @@
+<p style="color: purple;">{{ $user }}</p>
